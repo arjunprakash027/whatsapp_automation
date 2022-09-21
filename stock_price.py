@@ -4,7 +4,6 @@ import numpy as np
 from datetime import date,timedelta
 import matplotlib.pyplot as plt
 plt.style.use('default')
-import plotly.graph_objects as go
 import json
 
 today = date.today()
